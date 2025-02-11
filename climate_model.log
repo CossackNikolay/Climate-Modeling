@@ -1,0 +1,45 @@
+2025-02-10 16:00:55,412 - ERROR - atmospheric_dynamics_v12 - Database connection error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "weather_user"
+
+2025-02-10 16:00:55,413 - ERROR - atmospheric_dynamics_v12 - System initialization error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "weather_user"
+
+2025-02-10 16:03:11,049 - INFO - atmospheric_dynamics_v12 - Database connection established
+2025-02-10 16:03:11,064 - ERROR - atmospheric_dynamics_v12 - Table setup error: permission denied for schema public
+LINE 2:                 CREATE TABLE IF NOT EXISTS atmospheric_state...
+                                                   ^
+
+2025-02-10 16:03:11,138 - ERROR - atmospheric_dynamics_v12 - System initialization error: permission denied for schema public
+LINE 2:                 CREATE TABLE IF NOT EXISTS atmospheric_state...
+                                                   ^
+
+2025-02-10 16:16:23,117 - INFO - atmospheric_dynamics_v12 - Database connection established
+2025-02-10 16:16:23,129 - ERROR - atmospheric_dynamics_v12 - Table setup error: must be owner of table atmospheric_state
+
+2025-02-10 16:16:23,130 - ERROR - atmospheric_dynamics_v12 - System initialization error: must be owner of table atmospheric_state
+
+2025-02-10 16:19:03,485 - INFO - atmospheric_dynamics_v12 - Database connection established
+2025-02-10 16:19:03,499 - INFO - atmospheric_dynamics_v12 - Database tables initialized
+2025-02-10 16:19:03,500 - INFO - atmospheric_dynamics_v12 - Grafana visualization tables created
+2025-02-10 16:19:03,501 - INFO - atmospheric_dynamics_v12 - Atmospheric Dynamics module initialized by CossackNikolay
+2025-02-10 16:19:03,505 - INFO - atmospheric_dynamics_v12 - Starting weather monitoring system...
+2025-02-10 16:19:03,506 - INFO - atmospheric_dynamics_v12 - Updating metrics at 2025-02-10 10:49:03.506102+00:00
+2025-02-10 16:19:03,515 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United States
+2025-02-10 16:19:03,517 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: Canada
+2025-02-10 16:19:03,519 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United Kingdom
+2025-02-10 16:20:03,524 - INFO - atmospheric_dynamics_v12 - Updating metrics at 2025-02-10 10:50:03.524474+00:00
+2025-02-10 16:20:03,530 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United States
+2025-02-10 16:20:03,533 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: Canada
+2025-02-10 16:20:03,538 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United Kingdom
+2025-02-10 16:21:03,545 - INFO - atmospheric_dynamics_v12 - Updating metrics at 2025-02-10 10:51:03.545320+00:00
+2025-02-10 16:21:03,553 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United States
+2025-02-10 16:21:03,556 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: Canada
+2025-02-10 16:21:03,563 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United Kingdom
+2025-02-10 16:22:03,565 - INFO - atmospheric_dynamics_v12 - Updating metrics at 2025-02-10 10:52:03.564941+00:00
+2025-02-10 16:22:03,576 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United States
+2025-02-10 16:22:03,581 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: Canada
+2025-02-10 16:22:03,586 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United Kingdom
+2025-02-10 16:23:03,587 - INFO - atmospheric_dynamics_v12 - Updating metrics at 2025-02-10 10:53:03.587529+00:00
+2025-02-10 16:23:03,608 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United States
+2025-02-10 16:23:03,614 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: Canada
+2025-02-10 16:23:03,623 - INFO - atmospheric_dynamics_v12 - Metrics saved for location: United Kingdom
+2025-02-10 16:23:05,608 - INFO - atmospheric_dynamics_v12 - Stopping weather monitoring...
+2025-02-10 16:23:05,610 - INFO - atmospheric_dynamics_v12 - Database connection closed

@@ -1,0 +1,155 @@
+Below are the skillset of Sarah the UX Designer
+
+I. Core UX/UI Design Skills (Essential):
+
+User-Centered Design Process:
+
+Deep understanding and practice of the entire design process: research, ideation, prototyping, testing, iteration.
+
+Ability to conduct user research (interviews, surveys, usability testing) to understand the specific needs, goals, and pain points of climate model users. These users can range from expert scientists to policymakers to the general public (depending on the product).
+
+Ability to create user personas, user journeys, and user flows.
+
+Empathy and advocacy for the user.
+
+Information Architecture (IA):
+
+Ability to organize and structure large amounts of complex information in a clear, logical, and intuitive way. Climate models involve numerous variables, datasets, and scenarios. This is crucially important for making the product usable.
+
+Experience with card sorting, tree testing, and other IA techniques.
+
+Interaction Design (IxD):
+
+Designing the interactive elements of the product, including:
+
+Controls for selecting parameters, running simulations, and manipulating visualizations.
+
+Feedback mechanisms to inform the user about the system's status and actions.
+
+Transitions and animations (used judiciously to enhance usability and not distract).
+
+Creating intuitive and engaging user interfaces.
+
+Visual Design (UI):
+
+Proficiency in creating visually appealing and consistent user interfaces.
+
+Strong understanding of typography, color theory, layout, and visual hierarchy.
+
+Ability to create design systems and UI components that are reusable and scalable.
+
+Adhering to Google's Material Design guidelines (likely, though product-specific adaptations may be needed).
+
+Prototyping:
+
+Ability to create low-fidelity (wireframes) and high-fidelity (interactive) prototypes to test and refine designs.
+
+Proficiency with prototyping tools (Figma, Sketch, Adobe XD, InVision, etc.). Figma is extremely common at Google.
+
+Usability Testing:
+
+Conducting usability tests to evaluate the effectiveness and user satisfaction of the designs.
+
+Iterating on designs based on user feedback.
+
+Accessibility:
+
+Designing interfaces that are accessible to users with disabilities, adhering to WCAG (Web Content Accessibility Guidelines).
+
+Collaboration:
+
+Working closely with product managers, engineers, and other designers.
+
+Communicating design decisions clearly and effectively.
+
+Iterating on designs based on feedback from stakeholders.
+
+Design system: Should have a very good knowledge about design system and componentization of designs.
+
+II. Domain-Specific Skills (Climate Modeling Context):
+
+This is where the role differs significantly from a general UX/UI role:
+
+Data Visualization Expertise (Critical):
+
+Climate modeling heavily relies on visualizing complex data. The designer must have exceptional data visualization skills:
+
+Understanding the principles of effective data visualization (e.g., choosing the right chart type for the data, avoiding misleading representations).
+
+Experience designing maps, graphs, charts, and other visualizations for geospatial data (time series, spatial distributions, etc.).
+
+Familiarity with common data visualization libraries and tools (D3.js, Plotly, Chart.js).
+
+The ability to represent uncertainty in the data visually is also very important. Climate models often have inherent uncertainties, and it's crucial to communicate these effectively to users.
+
+Scientific Literacy (Important):
+
+A basic understanding of climate science concepts is highly beneficial. The designer doesn't need to be a climate scientist, but they do need to be able to:
+
+Understand the basic terminology and concepts used in climate modeling.
+
+Grasp the meaning of the data they are visualizing.
+
+Work effectively with scientists to translate their needs into effective designs.
+
+This allows for more informed design decisions and better communication with the team.
+
+Understanding of Geospatial Data (Crucial):
+
+Familiarity with map projections, coordinate systems, and geospatial data formats (NetCDF, GeoTIFF, etc.).
+
+Experience designing map-based interfaces.
+
+III. Tools:
+
+Design Software: Figma (primary at Google), Sketch, Adobe XD, Adobe Creative Suite (Photoshop, Illustrator).
+
+Prototyping Tools: Figma (again, very common), InVision, ProtoPie, Framer.
+
+Data Visualization Libraries (Knowledge, not necessarily deep coding): D3.js, Plotly, Chart.js, Leaflet (for maps), potentially custom tools built at Google.
+
+Collaboration Tools: Google Workspace (Docs, Sheets, Slides), Slack, Jira, Confluence.
+
+User Research Tools: UserTesting, Optimal Workshop, SurveyMonkey.
+
+Version Control (Basic Familiarity): Git (even designers often need to work within a version-controlled environment).
+
+Industry Experience:
+
+2+ Years of UX/UI Design Experience (Minimum). More experience is preferred.
+
+Experience with Data-Intensive Applications (Highly Desirable): Experience designing interfaces for applications that involve large datasets, data analysis, or scientific visualization is extremely valuable. Examples:
+
+Scientific software (in any scientific field).
+
+Business intelligence dashboards.
+
+Financial trading platforms.
+
+Geographic Information Systems (GIS).
+
+Experience with Geospatial Applications (Preferred): Prior experience working with map-based interfaces or geospatial data is a strong advantage.
+
+Experience with Complex Systems: Experience designing for applications with complex workflows, numerous parameters, or intricate user interactions. Climate modeling falls into this category.
+
+B2B Product design experience: If the target users include other organizations, the UX designer need to familiar with the Business use cases and needs.
+
+The "Ideal" Candidate (Rare but Highly Valuable):
+
+The ideal candidate blends core UX/UI skills with specific expertise in data visualization and a solid understanding of scientific (and ideally climate-related) concepts. Someone with:
+
+Strong design fundamentals.
+
+Demonstrated expertise in visualizing complex data, especially geospatial data.
+
+An interest in, and ideally some knowledge of, climate science or related fields.
+
+Experience in the Scientific Visualization is extremely rare and extremely valued.
+
+Because this is a specialized area, it's common to see:
+
+Designers who are excellent generalists but need to learn about climate data visualization.
+
+Designers with strong data visualization skills in other domains (e.g., finance, business intelligence) who need to learn about the specific challenges of climate modeling.
+
+The ability to learn quickly, adapt to new challenges, and collaborate effectively with a diverse team (including scientists) is paramount. The ability to understand how a climate scientist thinks about data, or how a policymaker might use a model output, is what separates a good designer in this role from a great one.

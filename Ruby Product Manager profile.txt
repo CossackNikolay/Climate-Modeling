@@ -1,0 +1,168 @@
+A Below are the skillset of Ruby the Product Manager
+I. Core Product Management Skills (Essential for all PMs):
+
+User-Centricity: Deep empathy for users and a passion for solving their problems.
+
+Ability to conduct user research, understand user needs, and translate them into product requirements. This is complex in climate modeling because "users" can be:
+
+Climate scientists doing research.
+
+Policy makers making climate-related decisions.
+
+Businesses assessing climate risk.
+
+Developers building climate-related applications (if the product is a platform or API).
+
+Ability to define user personas, user stories, and use cases.
+
+Market Analysis and Competitive Research:
+
+Understanding the market for climate data and modeling tools, including competing products and services.
+
+Identifying market gaps and opportunities.
+
+Analyzing trends in climate science, policy, and technology.
+
+Product Strategy and Vision:
+
+Defining a clear product vision, strategy, and roadmap.
+
+Aligning the product strategy with Google's overall goals.
+
+Articulating the value proposition of the product to different user groups.
+
+Roadmap Planning and Prioritization:
+
+Defining and prioritizing features, balancing user needs, technical feasibility, and business goals.
+
+Managing the product backlog and making trade-off decisions.
+
+Using data and metrics to inform prioritization.
+
+Product Requirements Definition:
+
+Writing clear and concise product requirements documents (PRDs) or user stories.
+
+Specifying functional and non-functional requirements.
+
+Collaborating with engineering and design teams to translate requirements into technical specifications.
+
+Metrics and Analytics:
+
+Defining key performance indicators (KPIs) for the product.
+
+Tracking product usage and performance.
+
+Using data to make decisions and iterate on the product.
+
+Familiarity with analytics tools (Google Analytics, internal Google dashboards, etc.).
+
+Launch and Go-to-Market:
+
+Planning and executing product launches.
+
+Working with marketing, sales, and communications teams to promote the product.
+
+Collecting user feedback and iterating based on launch results.
+
+Communication and Collaboration:
+
+Excellent written and verbal communication skills.
+
+Ability to communicate effectively with a diverse range of stakeholders, including engineers, scientists, designers, executives, and external users.
+
+Ability to build consensus and drive alignment across different teams.
+
+Presentation skill: As a key decision maker and product spokes-person, a PM frequently make presentations to various audiences.
+
+II. Technical Understanding (Sufficient to Collaborate Effectively):
+
+General Software Development:
+
+Basic understanding of the software development lifecycle (SDLC).
+
+Familiarity with Agile methodologies (Scrum, Kanban).
+
+Ability to understand technical constraints and trade-offs.
+
+Data Structures and Algorithms (Basic Understanding): A high-level understanding helps in understanding performance considerations and discussions with engineers.
+
+Cloud Computing Concepts (Essential - especially GCP):
+
+Understanding of cloud-based services and infrastructure.
+
+Familiarity with Google Cloud Platform (GCP), especially relevant services like Compute Engine, Cloud Storage, BigQuery, Vertex AI, and Earth Engine.
+
+Data Modeling and Analysis (Basic Understanding): Understanding data structures, database, data processing workflows will be valuable when discussion product with engineering teams.
+
+Machine Learning (Basic Understanding): If the product leverages ML (highly likely in modern climate modeling), the PM should understand the basic concepts, capabilities, and limitations of ML. They don't need to be able to build models, but they need to be able to have informed discussions about their use.
+
+III. Domain Knowledge: Climate Science and its Applications (Critical):
+
+This is the area that differentiates this role from a generic PM role.
+
+Climate Science Fundamentals:
+
+A solid understanding of the basic principles of climate science, including the greenhouse effect, climate change drivers, and impacts.
+
+Familiarity with key climate concepts like radiative forcing, climate sensitivity, and feedback loops.
+
+Understanding of different types of climate models (global circulation models, regional climate models, Earth system models) and their strengths and weaknesses.
+
+Knowledge of key climate data sources (observational datasets, reanalysis products, model outputs) and their limitations.
+
+Climate Change Impacts and Risks:
+
+Understanding of the impacts of climate change on different sectors (agriculture, water resources, energy, infrastructure, health).
+
+Knowledge of climate risk assessment methodologies.
+
+Climate Policy and Mitigation/Adaptation Strategies (Beneficial):
+
+Familiarity with international climate agreements (e.g., the Paris Agreement).
+
+Understanding of climate mitigation strategies (reducing greenhouse gas emissions) and adaptation strategies (adjusting to the impacts of climate change).
+
+Relevant Industries:
+
+Understanding how the different industries may interact with or make decision based on Climate Modelling result, including insurance, agriculture, and infrastructure etc.
+
+Sustainability and Environmental Management:
+
+Good to have working knowledge and practices related to the general sustainability development.
+
+IV. Tools:
+
+Product Management Tools: Jira, Confluence, Aha!, Productboard, Google Docs/Sheets/Slides, etc.
+
+Data Analysis Tools: Google Analytics, SQL, Spreadsheets (advanced proficiency). Basic familiarity with tools used for scientific visualization and data analysis (Python, R) is a plus.
+
+Communication & Collaboration: Slack, Google Meet, email.
+
+Prototyping Tools (Optional but Beneficial): Figma, Sketch, InVision (to quickly communicate design ideas with UX/UI designers).
+
+Industry Experience:
+
+2+ Years of Product Management Experience (Minimum): Experience in a product management role, preferably with a software or data product. More experience is strongly preferred, especially at Google.
+
+Experience in a Related Field (Highly Desirable):
+
+Climate/Environmental Science: Prior experience working in a climate science organization, environmental consultancy, or related field. This provides invaluable context and user understanding.
+
+Geospatial Technology: Experience with GIS (Geographic Information Systems) or other geospatial technologies.
+
+Data-Intensive Products: Experience managing products that involve large datasets, data analysis, or scientific computing.
+
+Software for Scientists: Experience developing software for research or scientific applications.
+
+Technical Background (Preferred): A technical background (e.g., a degree in computer science, engineering, physics, or a related field) is helpful but not strictly required if the candidate has strong climate knowledge and product management skills. A scientific background related to climate is, arguably, more important for this role.
+
+The "Ideal" PM:
+
+The perfect candidate blends strong PM skills with significant climate domain knowledge. A person with a background in environmental science and product management experience in a data-driven tech company would be an excellent fit. However, since this is a niche combination, it's also realistic to see candidates who:
+
+Are experienced PMs with a strong interest in climate and a willingness to learn the domain quickly.
+
+Come from a climate science background (e.g., a researcher) and have transitioned into product management. They would need to quickly acquire core PM skills.
+
+The ability to effectively communicate and collaborate with both engineers and climate scientists is paramount.

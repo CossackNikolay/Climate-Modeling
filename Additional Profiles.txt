@@ -1,0 +1,300 @@
+Below are the skillset of various roles 
+1. Daniel - the Site Reliability Engineer (SRE)
+
+Skill Set:
+
+Systems Thinking: Holistic understanding of distributed systems, infrastructure, and application performance.
+
+Automation: Proficiency in scripting and automation tools (Python, Bash, Go). Automating tasks is at the core of SRE.
+
+Monitoring & Alerting: Expertise in setting up and maintaining monitoring systems (Prometheus, Grafana, Google Cloud Monitoring/Stackdriver), defining meaningful metrics, and creating effective alerts.
+
+Incident Response: Strong skills in troubleshooting, diagnosing, and resolving production issues. Ability to stay calm and think clearly under pressure.
+
+Capacity Planning: Forecasting resource needs and scaling infrastructure to meet demand.
+
+Performance Optimization: Identifying and resolving performance bottlenecks.
+
+Root Cause Analysis (RCA): Investigating incidents to identify the root cause and prevent recurrence.
+
+Disaster Recovery (DR): Planning and implementing DR strategies.
+
+Service Level Objectives (SLOs) / Service Level Indicators (SLIs) / Service Level Agreements (SLAs): Defining and tracking SLOs/SLIs/SLAs to measure and improve reliability.
+
+Software Engineering Fundamentals: Good understanding in algorithm and software design pattern. Although SRE may not have regular coding task. This fundamental knowledge will help SRE optimize the infrastructure.
+
+Industry Experience:
+
+2+ years of experience as an SRE or in a similar role (e.g., Systems Administrator, DevOps Engineer) with a strong emphasis on automation and reliability.
+
+Experience with large-scale, distributed systems. Google-scale experience is, of course, a plus.
+
+Experience in a production environment with strict uptime requirements.
+
+Programming and Tool Knowledge:
+
+Scripting Languages: Python (strongly preferred), Bash, Go.
+
+Configuration Management: Terraform, Ansible, Chef, Puppet.
+
+Containerization: Docker, Kubernetes (or Borg at Google).
+
+Cloud Platform: Google Cloud Platform (GCP) – Compute Engine, Cloud Storage, Cloud Load Balancing, Kubernetes Engine (GKE), Cloud Monitoring (formerly Stackdriver), etc.
+
+Monitoring Tools: Prometheus, Grafana, Datadog, Nagios (less common at Google).
+
+CI/CD Tools: Jenkins, GitLab CI, Spinnaker (Google's internal tool).
+
+Linux/Unix System Administration: Deep knowledge of Linux operating systems and system internals.
+
+Network: Have a solid knowledge on networking is essential for system troubleshooting.
+
+2. Harish - the Data Scientist / Machine Learning Engineer
+
+Skill Set:
+
+Statistical Modeling: Deep understanding of statistical methods and their application to climate data.
+
+Machine Learning: Expertise in various ML techniques (regression, classification, clustering, time series analysis, deep learning – specifically, CNNs and RNNs would be highly relevant).
+
+Data Wrangling: Cleaning, preprocessing, and transforming large and messy datasets.
+
+Feature Engineering: Selecting, transforming, and creating relevant features for ML models.
+
+Model Evaluation: Assessing model performance using appropriate metrics (accuracy, precision, recall, F1-score, RMSE, etc.) and understanding concepts like bias-variance tradeoff.
+
+Model Deployment: Deploying ML models into production systems.
+
+Experiment Design: Designing and conducting experiments to evaluate different models and approaches.
+
+Data Visualization: Skilled at visualization tools can effectively interpret the data analysis to other audiences.
+
+Industry Experience:
+
+2+ years of experience in data science or machine learning, ideally with experience in:
+
+Climate/Environmental Science (most relevant).
+
+Geospatial data analysis.
+
+Time series analysis.
+
+Image/video processing (relevant for CNN applications).
+
+Working with large datasets.
+
+Experience with putting models into production.
+
+PhD in the fields that need advanced statistic knowledge will be very beneficial.
+
+Programming and Tool Knowledge:
+
+Python: The primary language for data science and ML.
+
+ML Libraries: TensorFlow (Google's primary framework), PyTorch, scikit-learn, Keras.
+
+Data Analysis Libraries: NumPy, Pandas, xarray (essential for climate data), Dask.
+
+Cloud Platform: Google Cloud Platform (GCP) – Vertex AI, BigQuery, Cloud Storage.
+
+Data Visualization: Matplotlib, Seaborn, Plotly.
+
+Jupyter Notebooks/JupyterLab: The standard environment for interactive data analysis.
+
+GPU: CUDA, CuDNN
+
+3. Ghulam - The Technical Writer
+
+Skill Set:
+
+Clear and Concise Writing: Ability to explain complex technical concepts in simple, understandable language.
+
+Audience Analysis: Tailoring documentation to the needs of different audiences (e.g., scientists, developers, policymakers).
+
+Information Architecture: Structuring documentation logically and making it easy to navigate.
+
+API Documentation: Experience documenting APIs (REST, gRPC).
+
+User Guides: Creating tutorials, how-to guides, and other user documentation.
+
+Internal Documentation: Documenting internal systems and processes for the engineering team.
+
+Industry Experience:
+
+2+ years of experience as a technical writer, preferably in a software or scientific field.
+
+Experience documenting complex software or data products.
+
+Experience working with scientific or technical subject matter experts.
+
+Programming and Tool Knowledge:
+
+Markdown/reStructuredText: Standard formats for documentation.
+
+Documentation Generators: Sphinx, Doxygen, JSDoc.
+
+Version Control: Git.
+
+Google Workspace: Docs, Sheets, Slides.
+
+Issue Tracking: Jira, Confluence.
+
+4. Moris - The QA Engineer / Software Development Engineer in Test (SDET)
+
+Skill Set:
+
+Test Automation: Expertise in automating tests at different levels (unit, integration, end-to-end).
+
+Test Planning: Developing test plans, test cases, and test strategies.
+
+Test Framework Development: Building and maintaining test frameworks.
+
+Bug Reporting and Tracking: Identifying, reporting, and tracking bugs effectively.
+
+Performance Testing: Evaluating system performance and identifying bottlenecks.
+
+Security Testing (Beneficial): Basic understanding of security testing principles.
+
+Programming fundamental: Have solid understanding on Software Development Lifecycle, Programming fundamentals (Algorithms, Data Structures and System Design).
+
+Industry Experience:
+
+2+ years of experience as a QA engineer or SDET.
+
+Experience with large-scale, distributed systems (highly desirable).
+
+Experience testing data-intensive applications (a big plus).
+
+Programming and Tool Knowledge:
+
+Programming Languages: Python, Java, C++ (one or more).
+
+Test Automation Frameworks: Selenium, JUnit, TestNG, pytest, Robot Framework.
+
+CI/CD Tools: Jenkins, GitLab CI, Spinnaker.
+
+Cloud Platform: Google Cloud Platform (GCP) – for setting up test environments.
+
+Bug Tracking Systems: Jira, Bugzilla.
+
+5. Dcosta - The Security Engineer
+
+Skill Set:
+
+Threat Modeling: Identifying potential security threats and vulnerabilities.
+
+Security Auditing: Conducting security audits of code, systems, and infrastructure.
+
+Vulnerability Management: Identifying, assessing, and remediating security vulnerabilities.
+
+Incident Response: Responding to security incidents.
+
+Secure Coding Practices: Knowledge of secure coding principles and best practices.
+
+Cryptography: Understanding cryptographic concepts and their applications.
+
+Network Security: Familiarity with network security principles (firewalls, intrusion detection/prevention systems).
+
+Compliance: Deep knowledge of compliance frameworks like GDPR, CCPA, etc.
+
+Industry Experience:
+
+2+ years of experience in a security-focused role (e.g., Security Engineer, Security Analyst).
+
+Experience with cloud security (GCP preferred).
+
+Experience securing data-intensive applications (a plus).
+
+Certification: One or more major certifications in security domain is essential for landing the jobs, including: Security+, CISSP, CISM, OSCP.
+
+Programming and Tool Knowledge:
+
+Scripting Languages: Python, Bash.
+
+Security Tools: Static analysis tools (e.g., SonarQube), dynamic analysis tools, vulnerability scanners (e.g., Nessus), intrusion detection/prevention systems.
+
+Cloud Security Tools: Google Cloud Security Command Center.
+
+Network Security: Network scanners and traffic monitoring.
+
+6. Andrew - The DevOps Engineer
+
+Skill Sets:
+
+Infrastructure as Code (IaC): Expertise in defining and managing infrastructure using code (e.g., Terraform).
+
+Continuous Integration/Continuous Delivery (CI/CD): Building and maintaining CI/CD pipelines.
+
+Configuration Management: Automating server configuration and management (Ansible, Chef, Puppet).
+
+Containerization and Orchestration: Docker, Kubernetes.
+
+Monitoring and Logging: Setting up and managing monitoring and logging systems.
+
+Cloud Platform Expertise (GCP): Deep knowledge of GCP services.
+
+Communication: Strong communication and collaboration is the most importance skill since DevOps engineer needs interact with various departments.
+
+Industry Experience:
+
+2+ years of experience as a DevOps Engineer or in a similar role.
+
+Experience with automating infrastructure and deployment processes.
+
+Experience working in a cloud environment (GCP preferred).
+
+Certification: It will be very strong to have one or more certifications from GCP, Azure or AWS.
+
+Programming and Tool Knowledge:
+
+Scripting Languages: Python, Bash, Go.
+
+IaC Tools: Terraform, Cloud Deployment Manager (Google's tool).
+
+Configuration Management: Ansible, Chef, Puppet.
+
+Containerization: Docker, Kubernetes (Borg at Google).
+
+CI/CD Tools: Jenkins, GitLab CI, Spinnaker.
+
+Monitoring Tools: Prometheus, Grafana, Google Cloud Monitoring.
+
+Operating system: Deep knowledge on at least on OS.
+
+Networking: DNS, HTTP, Load Balancing etc.
+
+7. Raveena - The Data Engineer
+
+Skill Sets:
+
+Data Modeling: Experience with SQL, data warehouse, various modeling methodologies such as star schema.
+
+ETL Development: Extracting, transforming, and loading.
+
+Data Pipelines: Building and maintaining data pipelines to move data from various sources to data warehouses or data lakes.
+
+Data Warehousing: Experience design and implementing scalable and effective Data Warehouse solutions.
+
+Programming fundamental: Data Engineer may need perform custom coding for building up the efficient and reusable components.
+
+Industry Experience:
+
+2+ years hands on working experiences in large and medium Data Warehouse system development and maintenance.
+
+Having knowledge on weather/Climate modeling is huge bonus.
+
+Programming and Tool Knowledge:
+
+Programming Language: Python (mostly) or Java.
+
+SQL Strong knowledge on the database querying languages, performance tuning etc.
+
+Big Data Technologies: Hadoop, Spark, Beam (Google's data processing engine), Flink.
+
+Cloud Data Services: Google BigQuery, Cloud Dataflow, Cloud Dataproc, Cloud Storage.
+
+Workflow Orchestration: Airflow, Luigi.
+
+Data Governance: Have ability to implementing access controls, ensuring data privacy.
+
+The climate modeling context adds specific nuances to each of these roles. Working with large, complex scientific datasets, specialized visualization requirements, and potentially demanding computational needs, are all factors that differentiate these positions from their counterparts in other industries. The ability to adapt, learn quickly, and collaborate effectively in a highly technical and research-oriented environment is critical for all roles within this team.

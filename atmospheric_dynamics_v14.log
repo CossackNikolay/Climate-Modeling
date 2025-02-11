@@ -1,0 +1,20 @@
+2025-02-10 20:49:23,293 - INFO - atmospheric_dynamics_v14 - Database connection established
+2025-02-10 20:49:23,318 - INFO - atmospheric_dynamics_v14 - Database tables initialized successfully
+2025-02-10 20:49:23,318 - INFO - atmospheric_dynamics_v14 - Atmospheric Dynamics v14 initialized by CossackNikolay
+2025-02-10 20:49:23,319 - INFO - atmospheric_dynamics_v14 - Start time (UTC): 2025-02-10 15:19:23
+2025-02-10 20:49:23,320 - INFO - atmospheric_dynamics_v14 - Starting weather monitoring system...
+2025-02-10 20:49:23,322 - INFO - atmospheric_dynamics_v14 - Updating metrics at 2025-02-10 15:19:23.322283
+2025-02-10 20:49:23,329 - ERROR - atmospheric_dynamics_v14 - Data update error for United States: column "user_login" of relation "weather_metrics" does not exist
+LINE 5:                     timestamp, user_login)
+                                       ^
+
+2025-02-10 20:49:23,363 - ERROR - atmospheric_dynamics_v14 - Data update error for Canada: column "user_login" of relation "weather_metrics" does not exist
+LINE 5:                     timestamp, user_login)
+                                       ^
+
+2025-02-10 20:49:23,365 - ERROR - atmospheric_dynamics_v14 - Data update error for United Kingdom: column "user_login" of relation "weather_metrics" does not exist
+LINE 5:                     timestamp, user_login)
+                                       ^
+
+2025-02-10 20:49:42,787 - INFO - atmospheric_dynamics_v14 - Stopping weather monitoring...
+2025-02-10 20:49:42,788 - INFO - atmospheric_dynamics_v14 - Database connection closed

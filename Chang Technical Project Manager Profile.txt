@@ -1,0 +1,171 @@
+Below are the Skillset of Chang the Technical Project Manager
+
+I. Core Technical Program Management Skills (Essential):
+
+Project Planning and Execution:
+
+Defining project scope, goals, deliverables, timelines, and resource requirements.
+
+Developing detailed project plans using appropriate methodologies (e.g., Agile, Waterfall, hybrid). Google generally favors Agile approaches.
+
+Creating and managing Gantt charts, roadmaps, and other project tracking artifacts.
+
+Managing dependencies between different teams and tasks.
+
+Proactively identifying, assessing, and mitigating project risks.
+
+Developing contingency plans and managing issues as they arise.
+
+Tracking project progress against the plan and making adjustments as needed.
+
+Ensuring the project stays on budget and within scope.
+
+Cross-Functional Coordination:
+
+Facilitating communication and collaboration between different teams, including Engineering, Product Management, UX/UI Design, Research, Operations, Marketing, Legal, and potentially external partners.
+
+Leading cross-functional meetings, driving decisions, and resolving conflicts.
+
+Ensuring everyone is aligned on the project goals and their roles and responsibilities.
+
+Breaking down silos between teams.
+
+Stakeholder Management:
+
+Identifying and managing key stakeholders (executives, product owners, team leads, etc.).
+
+Keeping stakeholders informed about project progress, risks, and issues.
+
+Managing expectations and proactively addressing concerns.
+
+Communication and Reporting:
+
+Excellent written and verbal communication skills.
+
+Ability to communicate complex technical information clearly and concisely to both technical and non-technical audiences.
+
+Preparing and delivering regular project status reports, presentations, and dashboards.
+
+Process Improvement:
+
+Identifying opportunities to improve project management processes and tools.
+
+Implementing best practices and driving efficiency.
+
+Technical Depth (Sufficient to be Credible and Effective):
+
+While not expected to be a deep technical expert in every area, the TPM needs enough technical understanding to:
+
+Understand the technical challenges the team is facing.
+
+Assess the feasibility of proposed solutions.
+
+Make informed decisions about technical trade-offs.
+
+Effectively communicate with engineers and other technical stakeholders.
+
+Earn the respect of the technical teams they are managing.
+
+This often means a prior background as a software engineer, or substantial experience managing software development projects.
+
+II. Domain-Specific Skills (Climate Modeling Context - Important):
+
+Understanding of Climate Modeling (Helpful but not Deep Expertise):
+
+The TPM doesn't need to be a climate scientist, but they do need to have a basic understanding of:
+
+The goals and objectives of climate modeling.
+
+The key concepts and terminology used in climate science.
+
+The different types of climate models and their limitations.
+
+The challenges involved in developing and deploying large-scale climate models.
+
+This understanding allows them to more effectively manage the project, understand the constraints, and communicate with the scientists and engineers involved.
+
+Understanding of Scientific Computing (Beneficial):
+
+Familiarity with the general principles and practices of scientific computing, including:
+
+High-performance computing (HPC)
+
+Parallel processing
+
+Large datasets
+
+Numerical methods
+
+Understanding data lifecycle and related challenges.
+
+III. Tools and Technologies (Google Specific and General):
+
+Project Management Tools:
+
+Google-internal tools (many are proprietary) for project planning, tracking, and reporting.
+
+Jira, Confluence (or equivalents), Asana.
+
+Gantt chart software.
+
+Roadmapping tools.
+
+Communication Tools:
+
+Google Workspace (Docs, Sheets, Slides, Meet, Chat).
+
+Slack.
+
+Email.
+
+Technical Tools (Basic Familiarity):
+
+Understanding of Google Cloud Platform (GCP) is crucial, as the climate modeling project will likely rely heavily on it. Knowledge of relevant services (Compute Engine, Cloud Storage, BigQuery, Vertex AI, Earth Engine).
+
+Understanding of version control systems (Git).
+
+Understanding of CI/CD pipelines.
+
+IV. Industry Experience:
+
+5+ Years of Experience in Technical Program/Project Management: This is a senior role, and significant experience managing complex software development projects is required. Google typically seeks candidates with extensive experience.
+
+Experience with Large-Scale, Complex Projects: Experience managing projects that involve:
+
+Multiple teams.
+
+Cross-functional dependencies.
+
+Significant technical complexity.
+
+High stakes and visibility.
+
+Experience in a Scientific Computing Environment (Highly Desirable, but not Mandatory):
+
+Experience working in a research environment, a national lab, a scientific software company, or another setting that involves large-scale scientific computing would be a significant advantage.
+
+Even experience with data-intensive projects in other domains (e.g., finance, bioinformatics) is helpful.
+
+Experience with Cloud-Based Projects (Essential): Given Google's cloud-centric approach, experience managing projects that leverage cloud platforms (GCP, AWS, Azure) is critical.
+
+Experience with Agile Methodologies: Google strongly prefers Agile experience (Scrum, Kanban).
+
+Experience on geographically distributed teams: Helpful for collaborating with teams and/or stakeholders across different time zones and locations.
+
+Certifications(optional): Well recognized program management certifications, like PMP and PgMP, could be benefit to land the job.
+
+The "Ideal" Candidate (Highly Sought After):
+
+The most effective TPM for a Google Climate Modeling project will combine:
+
+Exceptional project management skills.
+
+Strong communication and leadership abilities.
+
+Sufficient technical understanding to be credible and effective.
+
+Some understanding of scientific computing and, ideally, climate modeling.
+
+Extensive experience with Google's internal tools and processes (or the ability to learn them quickly).
+
+This type of individual can effectively manage a complex, high-impact project with a diverse team of engineers, scientists, and product stakeholders, helping Google achieve its ambitious goals in the climate modeling space. Given the specialized nature of the domain, candidates often transition from a technical background (e.g., software engineering, data science) into program management, bringing valuable technical insights to the role. The key is a combination of strong organizational and leadership skills with the technical acumen to navigate the complexities of climate modeling.

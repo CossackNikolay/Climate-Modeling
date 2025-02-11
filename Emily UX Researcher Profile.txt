@@ -1,0 +1,138 @@
+Below are the skillset of Emily the UX Researcher
+I. Core UX Research Skills (Essential):
+
+Research Methodology Expertise:
+
+Strong understanding of both qualitative and quantitative research methods, and when to apply each:
+
+Qualitative: User interviews (structured, semi-structured, unstructured), contextual inquiry, ethnographic studies, focus groups, diary studies, participatory design workshops.
+
+Quantitative: Surveys, A/B testing, usability testing (with metrics like task completion rate, time on task, error rate), clickstream analysis, card sorting, tree testing.
+
+Ability to design, plan, and execute research studies from start to finish. This includes:
+
+Defining research objectives and questions.
+
+Selecting appropriate research methods.
+
+Developing research plans and protocols.
+
+Recruiting participants.
+
+Conducting the research (moderating interviews, running tests, etc.).
+
+Analyzing data and synthesizing findings.
+
+Presenting findings and recommendations to stakeholders.
+
+Participant Recruitment:
+
+Ability to recruit participants that represent the target user base, which, in the case of a climate modeling product, can be quite specialized (scientists, policymakers, etc.). This may involve:
+
+Using internal networks at Google.
+
+Partnering with external organizations (universities, research institutions, government agencies).
+
+Using screening questionnaires to ensure participants have the required background and experience.
+
+Data Analysis and Synthesis:
+
+Ability to analyze both qualitative and quantitative data to identify patterns, insights, and user needs.
+
+Strong skills in data visualization and storytelling to communicate findings effectively.
+
+Ability to translate research findings into actionable recommendations for product design and development.
+
+Communication and Collaboration:
+
+Excellent written and verbal communication skills.
+
+Ability to present research findings clearly and persuasively to different audiences (engineers, designers, product managers, executives).
+
+Ability to work collaboratively with other members of the product team.
+
+Empathy and Advocacy:
+
+Strong empathy for users and a commitment to advocating for their needs.
+
+Ability to understand and articulate the user's perspective.
+
+II. Domain-Specific Skills (Climate Modeling Context):
+
+This distinguishes this UX Researcher from a more general one:
+
+Understanding of Climate Science (Important):
+
+A basic understanding of climate science concepts and terminology is highly beneficial. The UX Researcher doesn't need to be a climate scientist, but they should:
+
+Be familiar with the key concepts and terms used in climate modeling (e.g., radiative forcing, climate sensitivity, GCMs, scenarios).
+
+Understand the different types of data and visualizations used in climate science.
+
+Be able to effectively communicate with climate scientists and understand their needs and workflows.
+
+Experience with Scientific Users (Highly Desirable):
+
+Experience conducting research with scientists, researchers, or other technically sophisticated users. These users have different needs and expectations than the general public. They often have deep domain knowledge and require powerful tools with advanced capabilities.
+
+Understanding how scientists think, how they use data, and the challenges they face in their work.
+
+Understanding of Geospatial Data (Beneficial):
+
+Familiarity with geospatial data and concepts, as climate modeling is inherently geospatial.
+
+III. Tools:
+
+User Research Platforms: UserTesting, UserZoom, Optimal Workshop, Lookback, dscout.
+
+Survey Tools: Google Forms, SurveyMonkey, Qualtrics.
+
+Note-Taking and Collaboration: Google Docs, Miro, Mural, FigJam.
+
+Data Analysis Software (Varies by Method):
+
+Qualitative: NVivo, MAXQDA, Delve, thematic analysis techniques.
+
+Quantitative: Excel, SPSS, R (basic proficiency), potentially specialized statistical software.
+
+Recruitment Platforms: Internal Google tools, LinkedIn, professional networking sites for relevant scientific fields.
+
+Presentation Tools: Google Slides, PowerPoint, Keynote.
+
+IV. Industry Experience:
+
+2+ Years of UX Research Experience (Minimum). More experience, particularly in relevant areas, is highly preferred. Google tends to prefer more experienced candidates.
+
+Experience in a Technical or Scientific Domain (Highly Desirable):
+
+Experience conducting research with scientists, researchers, or engineers.
+
+Experience working on products in fields like:
+
+Scientific software
+
+Data visualization
+
+Geographic Information Systems (GIS)
+
+Environmental science
+
+Data analytics
+
+Experience with Complex Software Products: Experience researching the usability of complex, data-intensive applications. Climate modeling platforms fall into this category.
+
+Experience on a distributed team: If part of the user located geographically distributed, this experience will be beneficial.
+
+The "Ideal" Candidate (Specialized and Valuable):
+
+The ideal candidate combines core UX Research skills with some understanding of the climate science domain and experience with technically sophisticated users. They might have:
+
+A strong foundation in UX Research methodologies.
+
+An interest in (and ideally, some background knowledge of) climate science, or experience working with scientists in another domain.
+
+Experience conducting research on complex software products or data-intensive applications.
+
+It is common to see researchers from related technical or scientific fields transitioning into UX Research for climate modeling. For instance, a social scientist with experience in survey design and quantitative data analysis might move into this area. Or a scientist who is passionate about user experience might retrain in UX Research.
+
+The key skills are adaptability, a willingness to learn about the domain, strong communication skills, and a passion for improving the usability of complex tools for a user base with unique and important needs. The ability to advocate for the user – even when those users have very different backgrounds and goals – is what makes a UX Researcher successful in this specialized field.

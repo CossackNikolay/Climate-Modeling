@@ -1,0 +1,181 @@
+Below are the skillset for Jack - The Engineering Manager
+
+I. Core Technical Foundation (Hands-on Depth vs. Strategic Breadth):
+
+Strong Software Engineering Background (Essential):
+
+The EM/TLM needs to have previously been a strong software engineer. While their day-to-day coding may decrease, they need to be able to:
+
+Understand the technical challenges their team faces.
+
+Review code (at a high level) to ensure quality and identify potential issues.
+
+Contribute to technical design discussions and provide guidance.
+
+Make informed decisions about technology choices.
+
+Earn the respect of their team, which is much easier with demonstrable technical competence.
+
+Experience in relevant programming languages (Python, C++, Fortran) is highly desirable. The specifics are the same as the SWE requirements I described previously: the EM needs to understand the languages, even if they aren't actively coding as much.
+
+Familiarity with software development best practices (version control, testing, CI/CD).
+
+Systems Thinking:
+
+Ability to see the "big picture" of the software architecture, including interactions between different components.
+
+Understanding of scalability, reliability, and performance considerations.
+
+Climate Modeling Understanding (Essential – Level Varies):
+
+This is crucial, but the level of expertise differs from an individual contributor SWE:
+
+EM (more management focused): Needs a solid understanding of the key concepts, challenges, and technologies in climate modeling, but doesn't necessarily need deep expertise in every area. They should be able to converse intelligently with domain experts and make informed decisions with their input.
+
+TLM (more technically focused): May have more in-depth domain knowledge, possibly with research experience. They might still participate in technical design and even some coding. The more technically hands-on the role, the deeper this expertise should be.
+
+The goal is to be able to:
+
+Understand the project's goals and requirements from a climate science perspective.
+
+Evaluate the feasibility of technical solutions in the context of climate modeling.
+
+Make trade-offs between different approaches, considering scientific validity, performance, and engineering constraints.
+
+II. People Management and Leadership Skills (Primary Focus):
+
+Team Leadership:
+
+Motivating and inspiring the team to achieve its goals.
+
+Setting clear expectations and providing regular feedback.
+
+Creating a positive and collaborative team environment.
+
+Fostering a culture of learning and growth.
+
+Coaching and Mentoring:
+
+Helping team members develop their skills and advance their careers.
+
+Providing guidance and support on both technical and non-technical issues.
+
+Identifying individual strengths and weaknesses, and creating growth opportunities.
+
+Performance Management:
+
+Setting performance goals, conducting performance reviews, and providing constructive feedback.
+
+Recognizing and rewarding high performers.
+
+Addressing performance issues effectively.
+
+Handling promotions, compensation, and other personnel matters.
+
+Conflict Resolution:
+
+Managing disagreements and resolving conflicts within the team.
+
+Facilitating productive discussions and finding solutions.
+
+Hiring and Onboarding:
+
+Participating in the interview process to select new team members.
+
+Ensuring new hires have the resources and support they need to succeed.
+
+Diversity, Equity, and Inclusion (DEI) Leadership: Actively promoting DEI and create an inclusive work environment.
+
+III. Project Management and Planning Skills (Essential):
+
+Project Planning:
+
+Developing project plans, defining timelines, and estimating effort.
+
+Breaking down large projects into smaller, manageable tasks.
+
+Prioritizing tasks based on product requirements and dependencies.
+
+Risk Management:
+
+Identifying and mitigating potential risks to the project.
+
+Developing contingency plans.
+
+Agile Methodologies:
+
+Familiarity with Agile frameworks (Scrum, Kanban) and experience working in an Agile environment.
+
+Leading sprint planning meetings, daily stand-ups, and retrospectives.
+
+Communication:
+
+Communicating effectively with the team, stakeholders, and other teams.
+
+Providing regular updates on project status and risks.
+
+Translating technical information for non-technical audiences.
+
+Collaboration:
+
+Working effectively with product managers, designers, and other stakeholders to ensure alignment on product goals and requirements.
+
+Facilitating collaboration between different teams.
+
+IV. Strategic Leadership and Vision (Increasingly Important at Higher Levels):
+
+Technical Strategy:
+
+Contributing to the overall technical strategy for the climate modeling product.
+
+Identifying new technologies and opportunities for innovation.
+
+Ensuring the team is staying up-to-date with industry best practices.
+
+Product Roadmap Influence:
+
+Working with product managers to influence the product roadmap and prioritize features.
+
+Providing technical input and feasibility assessments.
+
+Resource Allocation:
+
+Making informed decisions about how to allocate resources (budget, headcount) to different projects.
+
+Stakeholder Management: Communicate, influence, and manage the senior management and executives.
+
+V. Tools and Technologies (Similar to SWE + Management Tools):
+
+All the SWE-relevant technologies (GCP, Git, Python, C++, etc.): The EM needs to understand these, even if they don't use them daily.
+
+Project Management Tools: Jira, Confluence (or similar), Google Workspace tools.
+
+Communication Tools: Slack, email, video conferencing.
+
+Internal Google Management Tools: Google has many internal tools for managing performance reviews, tracking OKRs (Objectives and Key Results), handling hiring, and other administrative tasks. An EM will need to master these.
+
+Industry Experience:
+
+Several Years as a Software Engineer: A solid track record of success as an individual contributor is essential. Typically, at least 5+ years of experience as a SWE.
+
+Prior Leadership Experience (Ideal): Some experience leading projects or mentoring junior engineers, even informally, is highly beneficial. This could be as a tech lead on a smaller project, a team lead in a previous role, or taking on significant responsibility within a team.
+
+Experience in a Scientific Computing or Data-Intensive Environment: While direct climate modeling experience is the most relevant, experience in any field with large-scale simulations, data analysis, or high-performance computing is valuable.
+
+Open Source contribution: Active contributor on a large Open Source project demonstrates team spirit and communication skills.
+
+The "Ideal" Candidate (A Combination):
+
+The best EMs/TLMs for this role combine:
+
+A strong foundation in software engineering.
+
+Genuine interest and understanding of climate modeling and its challenges.
+
+Proven people management and leadership skills.
+
+The ability to think strategically and contribute to the product's overall direction.
+
+Excellent ability to connect the dots from different resources.
+
+This type of candidate is, understandably, highly sought-after. It's often easier to find someone with excellent engineering skills and train them in management, or find someone with good management skills and give them time to ramp up on the domain, than it is to find someone who already has the perfect blend. Google places a strong emphasis on hiring managers with both strong technical and people skills.
